@@ -31,7 +31,7 @@ From the Admin Panel, go to Agents, Add New Agent. Consider opening a Windows No
 
 - For the password settings, click Set Password, uncheck “Send the agent a password reset email”. This will open further settings for you to manually assign a password. Also uncheck “Require password change at next login”. Click Set. 
 - For Access, add to the SysAdmins department with Supreme Admin access. For Teams, add her to the Online Banking team. 
-- Add a new user. John Doe, fake email, username: john, password: Password1 with same password settings. For Access: set department to Support and access to View only.
+- Add a new user. John Doe, fake email, username: john, password: Password1 with same password settings. For Access: set department to Support and access to Supreme Admin. We are doing this to make sure we don't hit snags in the next project with access. If you were using this ticketing system as a permanent solution, depending on the size of your organization, you would want to curtail the access level to be more accurate based on needs for security reasons.
 
 <h3>Step 4: Create Users</h3>
 
