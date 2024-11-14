@@ -9,7 +9,7 @@ In this lab, we have already installed osTicket on our VM or local PC. In the ne
 
 <h3>Step 1: Configure Roles</h3>
 
-We will be making a Supreme Admin to avoid access issues later on for our admin account. To begin this lab, complete the first osTicket lab here. INSERT LINK! 
+We will be making a Supreme Admin to avoid access issues later on for our admin account. To begin this lab, complete the first osTicket lab: https://github.com/brandenoz/osticket-prereqs. 
 - From the admin login, click on Admin Panel > Agents > Roles > from here you can view and adjust the various default access levels. 
 - Click Add New Role > name it Supreme Admin > Permissions > click on everything in Tickets, Tasks, and Knowledge Base so that this access level can do everything. Click Add Role. 
 
@@ -24,7 +24,9 @@ We will not be setting up some departments that would make functional sense in a
 From the Admin Panel, go to Agents, Add New Agent. Consider opening a Windows Notepad note to keep the credentials organized. 
 - Fill out the basics for name and email. The email can be made up.
 <br>
+
 ![1](https://github.com/user-attachments/assets/9ded3524-3971-4e4c-b9e4-d7d4d08e2fe8)
+
 
 - For the password settings, click Set Password, uncheck “Send the agent a password reset email”. This will open further settings for you to manually assign a password. Also uncheck “Require password change at next login”. Click Set. 
 - For Access, add to the SysAdmins department with Supreme Admin access. For Teams, add her to the Online Banking team. 
@@ -50,12 +52,13 @@ Here we will add various help topics for sorting problems into the right categor
 - Add new, name it Password Reset, select Report a Problem for the parent. 
 - Add new, name it Other, and select General Inquiry for the parent.
 <br>
+
 ![2](https://github.com/user-attachments/assets/ba7df540-8e84-4d70-add7-bb71c2b5d559)
 
 
 <h3>Cleaning Up</h3>
 
-Just as with the last lab, I recommend you pause your VM to save on cost if you are not going directly onto the next project which you can find here. (link) 
+Just as with the last lab, I recommend you pause your VM to save on cost if you are not going directly onto the next project which you can find here: https://github.com/brandenoz/ticket-lifecycle.  
 
 
 
