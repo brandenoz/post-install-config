@@ -16,7 +16,8 @@ We will be making a Supreme Admin to avoid access issues later on for our admin 
 <h3>Step 2: Create Departments & Teams</h3>
 
 We will not be setting up some departments that would make functional sense in a potential work environment. 
-- Go to Agents > Departments > Add New Department > Choose Top-Level Department > Name it SysAdmins. 
+- Go to Agents > Departments > Add New Department > Choose Top-Level Department > Name it SysAdmins.
+- Delete the Maintenance department. 
 - Go to Teams > Agents > Teams > Add New Team > Name it Online Banking > Create Team. 
 
 <h3>Step 3: Create Agents</h3>
